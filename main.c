@@ -3,5 +3,7 @@
 
 int main(void)
 {
-printf("I'm PYB");
+	int a=0;
+	int b=0;
+printf("I'm PYB hihi");
 }
